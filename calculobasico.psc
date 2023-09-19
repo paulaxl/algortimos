@@ -17,4 +17,4 @@ Algoritmo CalculoBasico
 	Escribir "El resultado del cociente de: " NumX " / " NumY " es: " Cocientente
 	Escribir "El resultado de la potenciacion de: " NumX " elevado a " NumY " es: " Potencia 
 	Escribir "El residuo o modulo de de: " NumX " / " NumY " es: " Resto 
-FinAlgoritmo 
+FinAlgoritmo

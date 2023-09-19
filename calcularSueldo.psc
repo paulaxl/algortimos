@@ -1,5 +1,9 @@
 Algoritmo calcularSueldo
-	definir sueldoBruto, impuestos, sueldoNeto Como Entero
+	definir sueldoBruto, impuestos, sueldoNeto, horas, tarifa  Como Entero
+	Escribir "Ingresar horas totales "
+	leer horas 
+	Escribir "Ingresar tarifa" 
+	Leer tarifa 
 	leer sueldoBruto
 	leer impuestos
 	leer sueldoNeto

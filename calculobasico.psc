@@ -10,7 +10,6 @@ Algoritmo CalculoBasico
 	Cociente = NumX / NumY
 	Potencia = NumX ^ NumY
 	Resto = NumX Mod NumY
-	
 	Escribir "La suma de: " NumX " + " NumY " es: " Suma
 	Escribir "El resultado de la diferencia entre: " NumX " - " NumY " es: " Dif
 	Escribir "El resultado del productodo de: " NumX " * " NumY " es: " Producto
